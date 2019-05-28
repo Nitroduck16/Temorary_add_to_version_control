@@ -1,0 +1,10 @@
+]0;~/R/Temorary_add_to_version_control[?1034hCharleys-MBP-2:Temorary_add_to_version_control dukebballfan1$ [KCharleys-MBP-2:Temorary_add_to_version_control dukebballfan1$ pwd
+/Users/dukebballfan1/R/Temorary_add_to_version_control
+]0;~/R/Temorary_add_to_version_controlCharleys-MBP-2:Temorary_add_to_version_control dukebballfan1$ git add
+fatal: not a git repository (or any of the parent directories): .git
+]0;~/R/Temorary_add_to_version_controlCharleys-MBP-2:Temorary_add_to_version_control dukebballfan1$ git init
+Initialized empty Git repository in /Users/dukebballfan1/R/Temorary_add_to_version_control/.git/
+]0;~/R/Temorary_add_to_version_controlCharleys-MBP-2:Temorary_add_to_version_control dukebballfan1$ git add
+Nothing specified, nothing added.
+Maybe you wanted to say 'git add .'?
+]0;~/R/Temorary_add_to_version_controlCharleys-MBP-2:Temorary_add_to_version_control dukebballfan1$ git add.[K .
